@@ -15,3 +15,4 @@ Distributed Systems Automation Cache Invalidation Success is not in what you hav
 Lambda Functions DNS Routing Logging Containerization Kafka The only way to do great work is to love what you do. CI/CD
 Data Science Cloud Functions Don't be afraid to give up the good to go for the great. Artificial Intelligence Big Data Database Indexing Container Orchestration Message Queue UX Optimization JavaScript Database
 Machine Learning Event Sourcing Content Delivery Network Automation JWT Event-driven Architecture Opportunities don't happen. You create them. The only way to do great work is to love what you do. NLP Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great.
+Kafka API Gateway Edge Computing NLP The only way to do great work is to love what you do. Neural Networks If you can dream it, you can do it.
