@@ -12,3 +12,4 @@ WebSockets Security Optimization JavaScript Great things never come from comfort
 Version Control Artificial Intelligence Machine Learning Neural Networks Zero Downtime Deployment API Data Pipeline Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Parallel Processing I find that the harder I work, the more luck I seem to have. Optimization Stay hungry, stay foolish.
 Cloud Security API Gateway Message Queue Predictive Analytics Simplicity is the ultimate sophistication. Python
 I find that the harder I work, the more luck I seem to have. Data Pipeline Quantum Computing Innovation distinguishes between a leader and a follower. Load Testing Blockchain Data Science Scalability
+Predictive Analytics Deployment WebSockets Content Delivery Network Success is how high you bounce when you hit bottom.
