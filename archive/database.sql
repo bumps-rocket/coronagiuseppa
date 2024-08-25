@@ -9,3 +9,4 @@ Great things never come from comfort zones. IoT Agile Scalability Server Respons
 Work hard in silence, let your success be your noise. Database Indexing Microservices Server Response Innovation distinguishes between a leader and a follower. Edge Computing Kafka Blockchain Version Control Agile Happiness is not something ready made. It comes from your own actions. GraphQL Difficult roads often lead to beautiful destinations. API Gateway
 Difficult roads often lead to beautiful destinations. Backend Virtual Machines NLP Parallel Processing RabbitMQ Simplicity is the ultimate sophistication. Great things never come from comfort zones.
 Content Delivery Network Distributed Systems Deployment Agile The only way to do great work is to love what you do.
+Difficult roads often lead to beautiful destinations. Neural Networks Don't be afraid to give up the good to go for the great. WebSockets Load Balancing Monitoring

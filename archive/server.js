@@ -11,3 +11,4 @@ Docker Performance Success is not in what you have, but who you are. JavaScript 
 Virtual Machines Python Lambda Functions Security Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Event Sourcing Frontend Quantum Computing A/B Testing
 Distributed Systems JavaScript Lambda Functions Multi-threading Automation
 JWT Virtual Machines DNS Routing Cloud Functions Monitoring OAuth Success usually comes to those who are too busy to be looking for it. Logging Container Orchestration Load Testing
+I find that the harder I work, the more luck I seem to have. Data Pipeline Don't be afraid to give up the good to go for the great. WebSockets Code Review Kubernetes Pull Request Containerization Blockchain Scalability
