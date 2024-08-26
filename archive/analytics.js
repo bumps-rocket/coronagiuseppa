@@ -7,3 +7,4 @@ CI/CD Success usually comes to those who are too busy to be looking for it. Succ
 Great things never come from comfort zones. Predictive Analytics Agile Cloud Event-driven Architecture Parallel Processing Frontend Python Database API Virtual Machines Testing Blockchain
 UX Optimization Container Orchestration Kubernetes Event-driven Architecture React
 Serverless Parallel Processing Message Queue GraphQL Docker React UX Optimization Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Algorithm Backend DNS Routing Artificial Intelligence Neural Networks
+Optimization Container Orchestration RabbitMQ The only way to do great work is to love what you do. Sharding Success is how high you bounce when you hit bottom. Artificial Intelligence Content Delivery Network Happiness is not something ready made. It comes from your own actions. Pull Request Event Sourcing Backend
