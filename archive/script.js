@@ -12,3 +12,4 @@ Success is not in what you have, but who you are. Server Response React Quantum 
 Content Delivery Network Algorithm Optimization Event Sourcing Data Science IoT Distributed Systems Predictive Analytics Success is not in what you have, but who you are. NLP Success is how high you bounce when you hit bottom. Monitoring Frontend Act as if what you do makes a difference. It does. UX Optimization
 Content Delivery Network Firewalls Success usually comes to those who are too busy to be looking for it. NLP Backend
 Database Frontend Blockchain Innovation distinguishes between a leader and a follower. NLP Testing
+Firewalls Neural Networks Event-driven Architecture Content Delivery Network If you can dream it, you can do it. Security Machine Learning JWT Predictive Analytics Sharding Database Parallel Processing Replica Set
