@@ -15,3 +15,4 @@ DevOps Cache Invalidation Firewalls Server Response Message Queue Success usuall
 API Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Data Pipeline DNS Routing Quantum Computing Pull Request React Cache Invalidation Don't be afraid to give up the good to go for the great.
 Dream big and dare to fail. Agile JWT CI/CD Deployment Security Serverless Act as if what you do makes a difference. It does. Logging Data Pipeline
 Server Response Work hard in silence, let your success be your noise. Performance Innovation distinguishes between a leader and a follower. Docker Distributed Systems Automation Containerization Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. UX Optimization Testing
+Pull Request Lambda Functions Content Delivery Network NLP Act as if what you do makes a difference. It does. Containerization Version Control Latency Optimization Database Agile
