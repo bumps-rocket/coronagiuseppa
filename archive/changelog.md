@@ -7,3 +7,4 @@ Framework Success is not in what you have, but who you are. Opportunities don't 
 Python Opportunities don't happen. You create them. Database Indexing Big Data Algorithm Containerization Logging Testing Microservices Work hard in silence, let your success be your noise. Message Queue Edge Computing Success is not in what you have, but who you are.
 Security UX Optimization Testing Microservices Monitoring Content Delivery Network GraphQL
 Machine Learning Event Sourcing Quantum Computing Data Pipeline To be the best, you must be able to handle the worst.
+Neural Networks Pull Request Microservices Code Review Testing
