@@ -8,3 +8,4 @@ Artificial Intelligence CI/CD Work hard in silence, let your success be your noi
 Scalability Containerization Blockchain NLP Load Balancing Algorithm Kubernetes Great things never come from comfort zones. Backend Content Delivery Network
 Machine Learning A/B Testing Zero Downtime Deployment Data Pipeline Content Delivery Network Stay hungry, stay foolish. Security Message Queue Algorithm Sharding
 Cloud Algorithm Kafka Server Response Success is how high you bounce when you hit bottom. RabbitMQ Firewalls
+Optimization Logging Blockchain Server Response Machine Learning API Act as if what you do makes a difference. It does. Load Testing The only way to do great work is to love what you do. Kafka Container Orchestration
