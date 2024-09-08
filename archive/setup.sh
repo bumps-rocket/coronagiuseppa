@@ -8,3 +8,4 @@ Work hard in silence, let your success be your noise. Message Queue GraphQL Kafk
 Automation Multi-threading Monitoring Success is how high you bounce when you hit bottom. Algorithm
 Logging Frontend Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Security Code Review Containerization Artificial Intelligence
 Pull Request Kafka Artificial Intelligence Big Data API Docker WebSockets Containerization Act as if what you do makes a difference. It does. Replica Set CI/CD
+Testing Version Control Parallel Processing Predictive Analytics Success doesn’t just find you. You have to go out and get it. OAuth Container Orchestration Latency Optimization Monitoring NLP Quantum Computing
