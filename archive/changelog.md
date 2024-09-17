@@ -6,3 +6,4 @@ Database Indexing Great things never come from comfort zones. Microservices Do w
 Framework Success is not in what you have, but who you are. Opportunities don't happen. You create them. Big Data Database Zero Downtime Deployment IoT Success is how high you bounce when you hit bottom. Distributed Systems Code Review Content Delivery Network Success doesn’t just find you. You have to go out and get it. RabbitMQ Artificial Intelligence
 Python Opportunities don't happen. You create them. Database Indexing Big Data Algorithm Containerization Logging Testing Microservices Work hard in silence, let your success be your noise. Message Queue Edge Computing Success is not in what you have, but who you are.
 Security UX Optimization Testing Microservices Monitoring Content Delivery Network GraphQL
+Machine Learning Event Sourcing Quantum Computing Data Pipeline To be the best, you must be able to handle the worst.
