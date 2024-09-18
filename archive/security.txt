@@ -6,3 +6,4 @@ Container Orchestration Load Balancing IoT Blockchain Great things never come fr
 Success is not in what you have, but who you are. Event Sourcing Quantum Computing Don't be afraid to give up the good to go for the great. Cloud Difficult roads often lead to beautiful destinations.
 Artificial Intelligence CI/CD Work hard in silence, let your success be your noise. Monitoring Edge Computing Framework Cloud Container Orchestration
 Scalability Containerization Blockchain NLP Load Balancing Algorithm Kubernetes Great things never come from comfort zones. Backend Content Delivery Network
+Machine Learning A/B Testing Zero Downtime Deployment Data Pipeline Content Delivery Network Stay hungry, stay foolish. Security Message Queue Algorithm Sharding
