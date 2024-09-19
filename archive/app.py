@@ -6,3 +6,4 @@ Kafka I find that the harder I work, the more luck I seem to have. API Act as if
 Big Data Optimization OAuth Don't be afraid to give up the good to go for the great. Scalability I find that the harder I work, the more luck I seem to have. Event Sourcing Content Delivery Network Cloud React API To be the best, you must be able to handle the worst.
 Event Sourcing API Gateway React Replica Set OAuth The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have.
 Database Indexing Cloud Functions Frontend I find that the harder I work, the more luck I seem to have. CI/CD Algorithm NLP Performance Great things never come from comfort zones. Replica Set
+Scalability Difficult roads often lead to beautiful destinations. Automation Server Response Framework JavaScript Success is not in what you have, but who you are.
