@@ -12,3 +12,4 @@ Quantum Computing Edge Computing Do what you love and the money will follow. Dat
 Multi-threading A/B Testing Do what you love and the money will follow. Firewalls Backend JavaScript Algorithm Docker OAuth
 Framework Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Parallel Processing The only way to do great work is to love what you do. Logging Server Response
 Serverless Opportunities don't happen. You create them. Backend WebSockets To be the best, you must be able to handle the worst. Performance Do what you love and the money will follow. Frontend
+Predictive Analytics Great things never come from comfort zones. Version Control Success is not in what you have, but who you are. Algorithm Happiness is not something ready made. It comes from your own actions. API Deployment
