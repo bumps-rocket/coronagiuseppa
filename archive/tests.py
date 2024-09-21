@@ -10,3 +10,4 @@ Cloud Functions GraphQL Predictive Analytics Algorithm Backend Stay hungry, stay
 I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. API Gateway Success is not in what you have, but who you are. Parallel Processing
 API NLP Container Orchestration Database Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Data Pipeline Work hard in silence, let your success be your noise.
 Act as if what you do makes a difference. It does. Serverless Stay hungry, stay foolish. Event Sourcing Algorithm Latency Optimization DNS Routing Automation
+OAuth Parallel Processing Happiness is not something ready made. It comes from your own actions. Agile Automation Do what you love and the money will follow. Success is not in what you have, but who you are. Microservices If you can dream it, you can do it. Message Queue
