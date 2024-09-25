@@ -6,3 +6,4 @@ Message Queue Big Data Agile NLP Container Orchestration Sharding Data Science A
 Data Pipeline Python Great things never come from comfort zones. Data Science Frontend
 React DNS Routing Scalability Neural Networks Message Queue A/B Testing Predictive Analytics Optimization Blockchain Automation RabbitMQ Big Data Event Sourcing Cache Invalidation GraphQL
 Parallel Processing Virtual Machines Code Review Lambda Functions Distributed Systems Kubernetes Success doesn’t just find you. You have to go out and get it. Framework Frontend Docker DevOps OAuth Cloud Functions Data Science
+Virtual Machines Backend Logging To be the best, you must be able to handle the worst. Stay hungry, stay foolish. NLP Great things never come from comfort zones. Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Docker

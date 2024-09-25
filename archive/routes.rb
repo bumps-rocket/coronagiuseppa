@@ -9,3 +9,4 @@ Docker Event-driven Architecture UX Optimization If you can dream it, you can do
 Quantum Computing Cloud Kubernetes Serverless Python
 JWT GraphQL I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Virtual Machines Docker Agile Latency Optimization
 Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. Machine Learning Distributed Systems Monitoring Sharding Opportunities don't happen. You create them. Cloud Success is how high you bounce when you hit bottom. Firewalls
+DNS Routing Distributed Systems Sharding RabbitMQ Automation Docker Framework CI/CD Container Orchestration React JavaScript NLP Version Control
