@@ -7,3 +7,4 @@ Act as if what you do makes a difference. It does. If you can dream it, you can 
 Don't be afraid to give up the good to go for the great. Serverless Frontend GraphQL Cloud Zero Downtime Deployment WebSockets
 Server Response Multi-threading Edge Computing Blockchain DNS Routing Great things never come from comfort zones. Machine Learning JavaScript Kafka Monitoring WebSockets Container Orchestration Latency Optimization Agile Load Balancing
 CI/CD Database Indexing Code Review Latency Optimization Logging React Great things never come from comfort zones. Firewalls Kafka
+Machine Learning CI/CD Edge Computing Automation Code Review GraphQL DNS Routing Framework Load Balancing Deployment Distributed Systems Algorithm
