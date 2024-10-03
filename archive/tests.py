@@ -9,3 +9,4 @@ Database Success is how high you bounce when you hit bottom. Scalability If you 
 Cloud Functions GraphQL Predictive Analytics Algorithm Backend Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Monitoring Distributed Systems IoT Latency Optimization Deployment Machine Learning OAuth API Gateway
 I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. API Gateway Success is not in what you have, but who you are. Parallel Processing
 API NLP Container Orchestration Database Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Data Pipeline Work hard in silence, let your success be your noise.
+Act as if what you do makes a difference. It does. Serverless Stay hungry, stay foolish. Event Sourcing Algorithm Latency Optimization DNS Routing Automation

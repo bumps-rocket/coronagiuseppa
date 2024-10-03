@@ -11,3 +11,4 @@ UX Optimization I find that the harder I work, the more luck I seem to have. Tes
 Do what you love and the money will follow. Lambda Functions To be the best, you must be able to handle the worst. IoT Performance Zero Downtime Deployment Pull Request Latency Optimization Distributed Systems
 Neural Networks Backend Edge Computing Automation To be the best, you must be able to handle the worst.
 Scalability Success doesn’t just find you. You have to go out and get it. Load Testing Deployment Zero Downtime Deployment Monitoring Pull Request Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. RabbitMQ Difficult roads often lead to beautiful destinations. Data Pipeline Artificial Intelligence IoT Optimization
+DevOps Cache Invalidation Firewalls Server Response Message Queue Success usually comes to those who are too busy to be looking for it. WebSockets Deployment
