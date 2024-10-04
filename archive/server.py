@@ -13,3 +13,4 @@ Security Difficult roads often lead to beautiful destinations. Success is not in
 Machine Learning I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Pull Request Backend Message Queue Algorithm CI/CD RabbitMQ Performance
 Distributed Systems Automation Cache Invalidation Success is not in what you have, but who you are. JWT Event-driven Architecture Cloud Functions Container Orchestration Monitoring Replica Set Serverless
 Lambda Functions DNS Routing Logging Containerization Kafka The only way to do great work is to love what you do. CI/CD
+Data Science Cloud Functions Don't be afraid to give up the good to go for the great. Artificial Intelligence Big Data Database Indexing Container Orchestration Message Queue UX Optimization JavaScript Database
