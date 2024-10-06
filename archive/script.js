@@ -9,3 +9,4 @@ Dream big and dare to fail. Zero Downtime Deployment JWT Kubernetes NLP Cache In
 CI/CD WebSockets Docker Backend Logging A/B Testing Serverless Success is not in what you have, but who you are. Algorithm
 Kubernetes Server Response RabbitMQ Database Indexing Deployment Testing Optimization Scalability Act as if what you do makes a difference. It does. React Distributed Systems Latency Optimization Performance Firewalls Difficult roads often lead to beautiful destinations.
 Success is not in what you have, but who you are. Server Response React Quantum Computing Lambda Functions Neural Networks
+Content Delivery Network Algorithm Optimization Event Sourcing Data Science IoT Distributed Systems Predictive Analytics Success is not in what you have, but who you are. NLP Success is how high you bounce when you hit bottom. Monitoring Frontend Act as if what you do makes a difference. It does. UX Optimization
