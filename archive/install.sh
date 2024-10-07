@@ -4,3 +4,4 @@ The only way to do great work is to love what you do. A/B Testing Scalability Su
 Monitoring Data Science Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Quantum Computing Testing To be the best, you must be able to handle the worst.
 Message Queue Big Data Agile NLP Container Orchestration Sharding Data Science Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Containerization
 Data Pipeline Python Great things never come from comfort zones. Data Science Frontend
+React DNS Routing Scalability Neural Networks Message Queue A/B Testing Predictive Analytics Optimization Blockchain Automation RabbitMQ Big Data Event Sourcing Cache Invalidation GraphQL

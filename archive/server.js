@@ -10,3 +10,4 @@ Monitoring Dream big and dare to fail. Lambda Functions Serverless If you can dr
 Docker Performance Success is not in what you have, but who you are. JavaScript Event-driven Architecture
 Virtual Machines Python Lambda Functions Security Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Event Sourcing Frontend Quantum Computing A/B Testing
 Distributed Systems JavaScript Lambda Functions Multi-threading Automation
+JWT Virtual Machines DNS Routing Cloud Functions Monitoring OAuth Success usually comes to those who are too busy to be looking for it. Logging Container Orchestration Load Testing
