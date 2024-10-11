@@ -6,3 +6,4 @@ Logging Edge Computing Stay hungry, stay foolish. Blockchain Do what you love an
 Testing Cloud Dream big and dare to fail. Scalability Backend Big Data
 Simplicity is the ultimate sophistication. Cache Invalidation Load Balancing Difficult roads often lead to beautiful destinations. Server Response I find that the harder I work, the more luck I seem to have.
 Docker Event-driven Architecture UX Optimization If you can dream it, you can do it. Sharding To be the best, you must be able to handle the worst. Kafka Don't be afraid to give up the good to go for the great. Backend
+Quantum Computing Cloud Kubernetes Serverless Python
