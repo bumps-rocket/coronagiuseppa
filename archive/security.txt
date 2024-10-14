@@ -3,3 +3,4 @@ Database API Gateway Artificial Intelligence Serverless React Event-driven Archi
 Lambda Functions Event Sourcing Machine Learning Message Queue Dream big and dare to fail. Firewalls Act as if what you do makes a difference. It does.
 Opportunities don't happen. You create them. JavaScript Containerization Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Backend Blockchain Version Control React Testing Monitoring
 Container Orchestration Load Balancing IoT Blockchain Great things never come from comfort zones.
+Success is not in what you have, but who you are. Event Sourcing Quantum Computing Don't be afraid to give up the good to go for the great. Cloud Difficult roads often lead to beautiful destinations.

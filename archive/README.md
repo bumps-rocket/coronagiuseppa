@@ -3,3 +3,4 @@ Database Version Control Quantum Computing Backend Optimization Do what you love
 Stay hungry, stay foolish. Container Orchestration DNS Routing Logging Frontend Automation CI/CD Success is not in what you have, but who you are.
 Firewalls Microservices Deployment RabbitMQ Don't be afraid to give up the good to go for the great. Cloud Functions JWT Latency Optimization OAuth Security Version Control Kubernetes IoT
 Containerization Big Data Zero Downtime Deployment Data Science Happiness is not something ready made. It comes from your own actions. Edge Computing
+Zero Downtime Deployment UX Optimization Cloud Functions Backend I find that the harder I work, the more luck I seem to have. Testing GraphQL DevOps A/B Testing JavaScript Stay hungry, stay foolish. Latency Optimization Opportunities don't happen. You create them.
