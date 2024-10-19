@@ -4,3 +4,4 @@ If you can dream it, you can do it. Firewalls Don't be afraid to give up the goo
 Data Science Lambda Functions Frontend Framework Multi-threading Backend Neural Networks Success is how high you bounce when you hit bottom. Edge Computing Performance Work hard in silence, let your success be your noise. Microservices
 Framework NLP Pull Request Lambda Functions Latency Optimization WebSockets CI/CD Container Orchestration The only way to do great work is to love what you do. Artificial Intelligence
 Load Testing Firewalls Load Balancing Testing Blockchain UX Optimization
+Microservices NLP Latency Optimization Act as if what you do makes a difference. It does. RabbitMQ Don't be afraid to give up the good to go for the great.
