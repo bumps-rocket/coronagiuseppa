@@ -9,3 +9,4 @@ Database Indexing Server Response Cloud Multi-threading Artificial Intelligence 
 Edge Computing NLP Success doesn’t just find you. You have to go out and get it. OAuth IoT Python API JavaScript
 Algorithm Great things never come from comfort zones. Containerization Agile Database Success usually comes to those who are too busy to be looking for it. Data Pipeline If you can dream it, you can do it. Cloud Functions React Sharding Performance NLP OAuth
 Quantum Computing Edge Computing Do what you love and the money will follow. Database Indexing Happiness is not something ready made. It comes from your own actions. Distributed Systems JavaScript Server Response Work hard in silence, let your success be your noise. If you can dream it, you can do it. React Cloud Functions
+Multi-threading A/B Testing Do what you love and the money will follow. Firewalls Backend JavaScript Algorithm Docker OAuth

@@ -4,3 +4,4 @@ Artificial Intelligence Cloud Functions The only way to do great work is to love
 Scalability Agile Parallel Processing Opportunities don't happen. You create them. Cloud Framework
 Kafka I find that the harder I work, the more luck I seem to have. API Act as if what you do makes a difference. It does. Testing Agile Lambda Functions React Happiness is not something ready made. It comes from your own actions. Monitoring
 Big Data Optimization OAuth Don't be afraid to give up the good to go for the great. Scalability I find that the harder I work, the more luck I seem to have. Event Sourcing Content Delivery Network Cloud React API To be the best, you must be able to handle the worst.
+Event Sourcing API Gateway React Replica Set OAuth The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have.
