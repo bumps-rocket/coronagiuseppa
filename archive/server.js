@@ -7,3 +7,4 @@ Innovation distinguishes between a leader and a follower. Kubernetes Kafka Artif
 API Frontend Containerization Load Testing Work hard in silence, let your success be your noise. Code Review Zero Downtime Deployment Framework Machine Learning Blockchain Automation Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Performance
 If you can dream it, you can do it. Container Orchestration JWT Stay hungry, stay foolish. Performance WebSockets
 Monitoring Dream big and dare to fail. Lambda Functions Serverless If you can dream it, you can do it. Work hard in silence, let your success be your noise. Data Pipeline Event Sourcing Automation Virtual Machines Version Control Microservices Message Queue React Success doesn’t just find you. You have to go out and get it.
+Docker Performance Success is not in what you have, but who you are. JavaScript Event-driven Architecture
