@@ -2,3 +2,4 @@ Automation Success doesn’t just find you. You have to go out and get it. Dream b
 Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. API Gateway Framework Docker Machine Learning Dream big and dare to fail. Code Review Deployment
 Artificial Intelligence Cloud Functions The only way to do great work is to love what you do. Optimization Containerization Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Python Act as if what you do makes a difference. It does. Firewalls Framework Message Queue
 Scalability Agile Parallel Processing Opportunities don't happen. You create them. Cloud Framework
+Kafka I find that the harder I work, the more luck I seem to have. API Act as if what you do makes a difference. It does. Testing Agile Lambda Functions React Happiness is not something ready made. It comes from your own actions. Monitoring

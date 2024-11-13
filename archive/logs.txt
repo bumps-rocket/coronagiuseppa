@@ -9,3 +9,4 @@ CI/CD Edge Computing RabbitMQ Data Pipeline Parallel Processing Work hard in sil
 Data Science Latency Optimization Data Pipeline Logging API React Quantum Computing Pull Request Multi-threading Cloud Functions Opportunities don't happen. You create them. Load Testing
 UX Optimization I find that the harder I work, the more luck I seem to have. Testing API Deployment Don't be afraid to give up the good to go for the great. Optimization Success doesn’t just find you. You have to go out and get it.
 Do what you love and the money will follow. Lambda Functions To be the best, you must be able to handle the worst. IoT Performance Zero Downtime Deployment Pull Request Latency Optimization Distributed Systems
+Neural Networks Backend Edge Computing Automation To be the best, you must be able to handle the worst.
