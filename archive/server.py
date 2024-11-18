@@ -6,3 +6,4 @@ Edge Computing Framework Data Science JWT Code Review The only way to do great w
 GraphQL Security Data Pipeline CI/CD Data Science Container Orchestration IoT
 Containerization Data Science Testing Frontend WebSockets Message Queue Replica Set CI/CD Firewalls Distributed Systems Dream big and dare to fail. Optimization Parallel Processing
 CI/CD Pull Request UX Optimization Success is how high you bounce when you hit bottom. A/B Testing
+Don't be afraid to give up the good to go for the great. Python The only way to do great work is to love what you do. NLP Backend Cache Invalidation Multi-threading Dream big and dare to fail. Serverless Latency Optimization Artificial Intelligence Load Testing IoT Success doesn’t just find you. You have to go out and get it. Optimization
