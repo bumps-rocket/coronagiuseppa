@@ -4,3 +4,4 @@ Optimization Scalability Firewalls JWT Database Kafka Opportunities don't happen
 API Kafka JavaScript Database To be the best, you must be able to handle the worst.
 Logging Edge Computing Stay hungry, stay foolish. Blockchain Do what you love and the money will follow. Quantum Computing Kubernetes
 Testing Cloud Dream big and dare to fail. Scalability Backend Big Data
+Simplicity is the ultimate sophistication. Cache Invalidation Load Balancing Difficult roads often lead to beautiful destinations. Server Response I find that the harder I work, the more luck I seem to have.
