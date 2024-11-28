@@ -1,2 +1,3 @@
 Sharding Big Data Neural Networks Data Science Containerization CI/CD GraphQL Blockchain
 Database API Gateway Artificial Intelligence Serverless React Event-driven Architecture
+Lambda Functions Event Sourcing Machine Learning Message Queue Dream big and dare to fail. Firewalls Act as if what you do makes a difference. It does.
