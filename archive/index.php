@@ -7,3 +7,4 @@ Sharding Replica Set To be the best, you must be able to handle the worst. Algor
 Event Sourcing Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Data Science Microservices Security Algorithm Containerization Deployment OAuth
 Database Indexing Server Response Cloud Multi-threading Artificial Intelligence Serverless
 Edge Computing NLP Success doesn’t just find you. You have to go out and get it. OAuth IoT Python API JavaScript
+Algorithm Great things never come from comfort zones. Containerization Agile Database Success usually comes to those who are too busy to be looking for it. Data Pipeline If you can dream it, you can do it. Cloud Functions React Sharding Performance NLP OAuth
