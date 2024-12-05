@@ -1,3 +1,4 @@
 UX Optimization Great things never come from comfort zones. API Agile Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. DNS Routing
 To be the best, you must be able to handle the worst. CI/CD Message Queue Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Logging
 Frontend Optimization Latency Optimization Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Database Indexing Testing To be the best, you must be able to handle the worst. DNS Routing Distributed Systems
+GraphQL DNS Routing Security Success doesn’t just find you. You have to go out and get it. Data Pipeline Container Orchestration Kafka OAuth
