@@ -5,3 +5,4 @@ Work hard in silence, let your success be your noise. WebSockets Cache Invalidat
 JavaScript Quantum Computing Monitoring Database Automation Cloud
 Innovation distinguishes between a leader and a follower. Kubernetes Kafka Artificial Intelligence Database API Database Indexing Testing Security Happiness is not something ready made. It comes from your own actions. Load Testing JWT Sharding Dream big and dare to fail. RabbitMQ
 API Frontend Containerization Load Testing Work hard in silence, let your success be your noise. Code Review Zero Downtime Deployment Framework Machine Learning Blockchain Automation Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Performance
+If you can dream it, you can do it. Container Orchestration JWT Stay hungry, stay foolish. Performance WebSockets
