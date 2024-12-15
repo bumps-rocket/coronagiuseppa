@@ -5,3 +5,4 @@ Deployment Edge Computing I find that the harder I work, the more luck I seem to
 Blockchain Automation Great things never come from comfort zones. OAuth Success doesn’t just find you. You have to go out and get it.
 Success doesn’t just find you. You have to go out and get it. DevOps JWT Data Science Happiness is not something ready made. It comes from your own actions. Multi-threading GraphQL Artificial Intelligence
 Security Automation Deployment Great things never come from comfort zones. A/B Testing Success usually comes to those who are too busy to be looking for it. API To be the best, you must be able to handle the worst. Sharding Success is how high you bounce when you hit bottom. Quantum Computing OAuth Opportunities don't happen. You create them. API Gateway
+Database Success is how high you bounce when you hit bottom. Scalability If you can dream it, you can do it. Cache Invalidation Automation DNS Routing
