@@ -1,1 +1,2 @@
 Sharding Big Data Neural Networks Data Science Containerization CI/CD GraphQL Blockchain
+Database API Gateway Artificial Intelligence Serverless React Event-driven Architecture
