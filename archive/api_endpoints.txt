@@ -2,3 +2,4 @@ DevOps Event Sourcing Big Data The only way to do great work is to love what you
 Quantum Computing Data Science Firewalls Message Queue Innovation distinguishes between a leader and a follower. GraphQL Virtual Machines Sharding Testing Automation Neural Networks Blockchain
 Version Control The only way to do great work is to love what you do. API Gateway Machine Learning Scalability Data Science Load Balancing JavaScript
 Success is not in what you have, but who you are. Edge Computing Monitoring Firewalls Cache Invalidation Code Review I find that the harder I work, the more luck I seem to have. Database Performance Do what you love and the money will follow. Kubernetes Zero Downtime Deployment
+DevOps Replica Set Lambda Functions Work hard in silence, let your success be your noise. Do what you love and the money will follow.
