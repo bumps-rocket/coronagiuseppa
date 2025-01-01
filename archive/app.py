@@ -1,1 +1,2 @@
 Automation Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. DevOps RabbitMQ Lambda Functions Cache Invalidation Act as if what you do makes a difference. It does. A/B Testing Content Delivery Network
+Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. API Gateway Framework Docker Machine Learning Dream big and dare to fail. Code Review Deployment
