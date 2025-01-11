@@ -1,2 +1,3 @@
 Big Data React Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. GraphQL
 Database Serverless IoT Innovation distinguishes between a leader and a follower. NLP Great things never come from comfort zones. DevOps Do what you love and the money will follow. Database Indexing Work hard in silence, let your success be your noise. JWT Difficult roads often lead to beautiful destinations.
+Microservices JWT RabbitMQ Neural Networks Do what you love and the money will follow. Serverless Opportunities don't happen. You create them. Quantum Computing Simplicity is the ultimate sophistication. Message Queue CI/CD Latency Optimization Parallel Processing
