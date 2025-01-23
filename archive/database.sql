@@ -2,3 +2,4 @@ Difficult roads often lead to beautiful destinations. Distributed Systems I find
 Virtual Machines API Gateway Edge Computing Simplicity is the ultimate sophistication. Artificial Intelligence GraphQL Pull Request NLP
 Success is how high you bounce when you hit bottom. Edge Computing Optimization CI/CD Multi-threading Do what you love and the money will follow. Sharding Act as if what you do makes a difference. It does. Security UX Optimization API Gateway Distributed Systems
 Big Data Firewalls JavaScript Content Delivery Network Sharding Load Testing API Gateway Scalability Logging Happiness is not something ready made. It comes from your own actions. Container Orchestration Kubernetes
+DevOps Python Do what you love and the money will follow. Latency Optimization Pull Request Event-driven Architecture Blockchain CI/CD Lambda Functions Content Delivery Network Machine Learning If you can dream it, you can do it. Replica Set Algorithm GraphQL
