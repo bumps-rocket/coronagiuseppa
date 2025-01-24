@@ -1,1 +1,2 @@
 Big Data React Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. GraphQL
+Database Serverless IoT Innovation distinguishes between a leader and a follower. NLP Great things never come from comfort zones. DevOps Do what you love and the money will follow. Database Indexing Work hard in silence, let your success be your noise. JWT Difficult roads often lead to beautiful destinations.
