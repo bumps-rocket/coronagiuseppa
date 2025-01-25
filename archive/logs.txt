@@ -1,3 +1,4 @@
 Success doesn’t just find you. You have to go out and get it. Algorithm JavaScript GraphQL Containerization IoT Simplicity is the ultimate sophistication. CI/CD Happiness is not something ready made. It comes from your own actions. Event Sourcing Optimization
 GraphQL Version Control Kafka Dream big and dare to fail. Opportunities don't happen. You create them. Frontend Server Response Monitoring Firewalls Success is not in what you have, but who you are.
 To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Zero Downtime Deployment JavaScript Event-driven Architecture Predictive Analytics Lambda Functions Automation Load Balancing Innovation distinguishes between a leader and a follower.
+Success is how high you bounce when you hit bottom. Firewalls A/B Testing Don't be afraid to give up the good to go for the great. Container Orchestration Logging Scalability Act as if what you do makes a difference. It does.
