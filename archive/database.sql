@@ -1,3 +1,4 @@
 Difficult roads often lead to beautiful destinations. Distributed Systems I find that the harder I work, the more luck I seem to have. Message Queue Cache Invalidation Innovation distinguishes between a leader and a follower. A/B Testing Opportunities don't happen. You create them. Artificial Intelligence Scalability
 Virtual Machines API Gateway Edge Computing Simplicity is the ultimate sophistication. Artificial Intelligence GraphQL Pull Request NLP
 Success is how high you bounce when you hit bottom. Edge Computing Optimization CI/CD Multi-threading Do what you love and the money will follow. Sharding Act as if what you do makes a difference. It does. Security UX Optimization API Gateway Distributed Systems
+Big Data Firewalls JavaScript Content Delivery Network Sharding Load Testing API Gateway Scalability Logging Happiness is not something ready made. It comes from your own actions. Container Orchestration Kubernetes
