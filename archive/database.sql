@@ -1,0 +1,1 @@
+Difficult roads often lead to beautiful destinations. Distributed Systems I find that the harder I work, the more luck I seem to have. Message Queue Cache Invalidation Innovation distinguishes between a leader and a follower. A/B Testing Opportunities don't happen. You create them. Artificial Intelligence Scalability
